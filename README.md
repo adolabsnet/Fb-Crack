@@ -24,3 +24,8 @@ python2 Crack.py
 
 »» Password : Abm
 ```
+# What's new
+- `Crack Pakistan Account `
+- `Crack Other Country `
+- `Login with user and password `
+- `Login with Token `
