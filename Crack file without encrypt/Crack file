@@ -621,7 +621,7 @@ def pilih_super():
 										oks.append(user+pass4)
 									else:
 										if 'www.facebook.com' in q["error_msg"]:
-											print '\\033[1;94m[\033[1;93mCP\033[1;94m] \033[1;97m' + user  + '\033[1;91m-⋄-\033[1;97m' + pass4 + '\033[1;91m-⋄-\033[1;97m' + b['name']
+											print '\033[1;94m[\033[1;93mCP\033[1;94m] \033[1;97m' + user  + '\033[1;91m-⋄-\033[1;97m' + pass4 + '\033[1;91m-⋄-\033[1;97m' + b['name']
 											cek = open("out/CP.txt", "a")
 											cek.write(user+"|"+pass4+"\n")
 											cek.close()
@@ -812,7 +812,7 @@ def pilih_duper():
 										oks.append(user+pass4)
 									else:
 										if 'www.facebook.com' in q["error_msg"]:
-											print '\\033[1;94m[\033[1;93mCP\033[1;94m] \033[1;97m' + user  + '\033[1;91m-⋄-\033[1;97m' + pass4 + '\033[1;91m-⋄-\033[1;97m' + b['name']
+											print '\033[1;94m[\033[1;93mCP\033[1;94m] \033[1;97m' + user  + '\033[1;91m-⋄-\033[1;97m' + pass4 + '\033[1;91m-⋄-\033[1;97m' + b['name']
 											cek = open("out/CP.txt", "a")
 											cek.write(user+"|"+pass4+"\n")
 											cek.close()
