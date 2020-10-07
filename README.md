@@ -29,6 +29,6 @@ python2 Crack.py
 - `Crack Other Country `
 - `Login with user and password `
 - `Login with Token `
-- `Don't use any illegal`
+![PicsArt_10-07-11.22.48.png](https://user-images.githubusercontent.com/52023076/95371775-846ccb00-088f-11eb-9284-7111136d2590.png)
 
-- `Only Education promote`
+
