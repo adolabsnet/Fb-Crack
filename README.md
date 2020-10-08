@@ -26,6 +26,8 @@ python2 Crack.py
 ```
 # What's new
 - `Crack Pakistan Account `
+- `Crack Bangladesh ID`
+- `Crack India ID
 - `Crack Other Country `
 - `Login with user and password `
 - `Login with Token `
